@@ -5,6 +5,9 @@ A tool to subjective compare a video with different bitrates or codecs.
 
 ![image](https://cloud.githubusercontent.com/assets/32864/5494494/15401bbe-86dc-11e4-9f93-344d53a4882a.png)
 
+## Online demo
+
+Try out a fully functional online demo [here](http://lucasmundim.github.io/clappr-video-comparator).
 
 ## Setup
 
